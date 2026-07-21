@@ -2,12 +2,30 @@
   "version": 1,
   "position": {
     "courseId": "katas",
-    "unitId": "getting_started",
-    "activityId": "getting_started__flip_qubit"
+    "unitId": "complex_arithmetic",
+    "activityId": "complex_arithmetic__complex_multiplication"
   },
   "completions": {
     "katas__getting_started__getting_started__welcome": {
       "completedAt": "2026-07-21T14:10:24.808Z"
+    },
+    "katas__getting_started__getting_started__flip_qubit": {
+      "completedAt": "2026-07-21T14:13:23.429Z"
+    },
+    "katas__complex_arithmetic__complex_arithmetic__overview": {
+      "completedAt": "2026-07-21T14:47:09.270Z"
+    },
+    "katas__complex_arithmetic__complex_arithmetic__algebraic_perspective": {
+      "completedAt": "2026-07-21T14:48:28.096Z"
+    },
+    "katas__complex_arithmetic__complex_arithmetic__powers_of_i": {
+      "completedAt": "2026-07-21T14:49:15.167Z"
+    },
+    "katas__complex_arithmetic__complex_arithmetic__complex_numbers": {
+      "completedAt": "2026-07-21T15:13:14.208Z"
+    },
+    "katas__complex_arithmetic__complex_arithmetic__complex_addition": {
+      "completedAt": "2026-07-21T15:17:34.196Z"
     }
   },
   "startedAt": "2026-07-21T14:07:59.650Z"
