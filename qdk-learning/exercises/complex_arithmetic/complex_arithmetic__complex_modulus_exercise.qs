@@ -3,6 +3,7 @@ namespace Kata {
 
     function ComplexModulus(x : Complex) : Double {
         // Implement your solution here...
-        return 0.;
+        let (a, b) = (x.Real, x.Imag);
+        return Sqrt(a*a + b*b);
     }
 }

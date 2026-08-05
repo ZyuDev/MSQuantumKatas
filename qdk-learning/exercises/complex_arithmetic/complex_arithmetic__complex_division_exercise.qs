@@ -3,6 +3,14 @@ namespace Kata {
 
     function ComplexDiv(x : Complex, y : Complex) : Complex {
         // Implement your solution here...
-        return Complex(0., 0.);
+        let (a, b) = (x.Real, x.Imag);
+        let (c, d) = (y.Real, y.Imag);
+
+        let denominator = c*c + d*d;
+        let realNum = a*c+b*d;
+        let imNum = b*c - a*d;
+
+
+        return Complex(realNum / denominator, imNum / denominator);
     }
 }

@@ -3,6 +3,6 @@ namespace Kata {
 
     function ComplexConjugate(x : Complex) : Complex {
         // Implement your solution here...
-        return Complex(0., 0.);
+        return Complex(x.Real, -x.Imag);
     }
 }

@@ -3,6 +3,11 @@ namespace Kata {
 
     function ComplexMult(x : Complex, y : Complex) : Complex {
         // Implement your solution here...
-        return Complex(0., 0.);
+        let (a, b) = (x.Real, x.Imag);
+        let (c, d) = (y.Real, y.Imag);
+
+        let rReal = a*c-b*d;
+        let rImag = a*d + b*c;
+        return Complex(rReal, rImag);
     }
 }
