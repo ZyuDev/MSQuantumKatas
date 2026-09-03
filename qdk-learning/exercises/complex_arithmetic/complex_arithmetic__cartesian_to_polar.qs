@@ -3,6 +3,10 @@ namespace Kata {
 
     function ComplexToComplexPolar(x : Complex) : ComplexPolar {
         // Implement your solution here...
-        return ComplexPolar(0., 0.);
+        let a = x.Real;
+        let b = x.Imag;
+        let r = Sqrt(a*a + b*b);
+        let phi = Std.Math.ArcTan2(b, a);
+        return ComplexPolar(r, phi);
     }
 }

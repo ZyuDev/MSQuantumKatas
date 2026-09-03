@@ -3,6 +3,10 @@ namespace Kata {
 
     function ComplexPolarToComplex(x : ComplexPolar) : Complex {
         // Implement your solution here...
-        return Complex(0., 0.);
+        let r = x.Magnitude;
+        let phi = x.Argument;
+        let a = r*Cos(phi);
+        let b = r*Sin(phi);
+        return Complex(a, b);
     }
 }

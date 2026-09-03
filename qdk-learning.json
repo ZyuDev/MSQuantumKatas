@@ -3,7 +3,7 @@
   "position": {
     "courseId": "katas",
     "unitId": "complex_arithmetic",
-    "activityId": "complex_arithmetic__complex_powers_real_exercise"
+    "activityId": "complex_arithmetic__polar_to_cartesian"
   },
   "completions": {
     "katas__getting_started__getting_started__welcome": {
@@ -56,6 +56,15 @@
     },
     "katas__complex_arithmetic__complex_arithmetic__complex_powers_real_exercise": {
       "completedAt": "2026-09-03T14:57:28.256Z"
+    },
+    "katas__complex_arithmetic__complex_arithmetic__polar_coordinates": {
+      "completedAt": "2026-09-03T15:10:29.240Z"
+    },
+    "katas__complex_arithmetic__complex_arithmetic__cartesian_to_polar": {
+      "completedAt": "2026-09-03T15:29:18.699Z"
+    },
+    "katas__complex_arithmetic__complex_arithmetic__polar_to_cartesian": {
+      "completedAt": "2026-09-03T15:34:44.866Z"
     }
   },
   "startedAt": "2026-07-21T14:07:59.650Z"
