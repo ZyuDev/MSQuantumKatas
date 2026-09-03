@@ -3,6 +3,12 @@ namespace Kata {
 
     function ComplexExponent(x : Complex) : Complex {
         // Implement your solution here...
-        return Complex(0., 0.);
+        let a = x.Real;
+        let b = x.Imag;
+        let eToA = Cosh(a)+Sinh(a);
+        let resultReal = eToA*Cos(b);
+        let resultImg = eToA*Sin(b);
+       
+        return Complex(resultReal, resultImg);
     }
 }

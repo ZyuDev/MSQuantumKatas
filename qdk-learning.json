@@ -3,7 +3,7 @@
   "position": {
     "courseId": "katas",
     "unitId": "complex_arithmetic",
-    "activityId": "complex_arithmetic__complex_exponents_exercise"
+    "activityId": "complex_arithmetic__complex_powers_real_exercise"
   },
   "completions": {
     "katas__getting_started__getting_started__welcome": {
@@ -50,6 +50,12 @@
     },
     "katas__complex_arithmetic__complex_arithmetic__imaginary_exponents": {
       "completedAt": "2026-07-22T21:10:54.439Z"
+    },
+    "katas__complex_arithmetic__complex_arithmetic__complex_exponents_exercise": {
+      "completedAt": "2026-09-03T14:12:59.548Z"
+    },
+    "katas__complex_arithmetic__complex_arithmetic__complex_powers_real_exercise": {
+      "completedAt": "2026-09-03T14:57:28.256Z"
     }
   },
   "startedAt": "2026-07-21T14:07:59.650Z"
