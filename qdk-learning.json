@@ -2,8 +2,8 @@
   "version": 1,
   "position": {
     "courseId": "katas",
-    "unitId": "complex_arithmetic",
-    "activityId": "complex_arithmetic__polar_to_cartesian"
+    "unitId": "linear_algebra",
+    "activityId": "linear_algebra__overview"
   },
   "completions": {
     "katas__getting_started__getting_started__welcome": {
@@ -65,7 +65,15 @@
     },
     "katas__complex_arithmetic__complex_arithmetic__polar_to_cartesian": {
       "completedAt": "2026-09-03T15:34:44.866Z"
+    },
+    "katas__complex_arithmetic__complex_arithmetic__polar_multiplication": {
+      "completedAt": "2026-09-19T16:18:37.540Z"
+    },
+    "katas__complex_arithmetic__complex_arithmetic__conclusion": {
+      "completedAt": "2026-09-19T16:18:53.041Z"
     }
   },
-  "startedAt": "2026-07-21T14:07:59.650Z"
+  "startedAt": "2026-07-21T14:07:59.650Z",
+  "pythonEnvironments": {},
+  "courseSelected": true
 }
