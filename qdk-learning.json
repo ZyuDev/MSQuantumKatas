@@ -3,7 +3,7 @@
   "position": {
     "courseId": "katas",
     "unitId": "linear_algebra",
-    "activityId": "linear_algebra__overview"
+    "activityId": "linear_algebra__inverse_matrix_ex"
   },
   "completions": {
     "katas__getting_started__getting_started__welcome": {
@@ -71,6 +71,36 @@
     },
     "katas__complex_arithmetic__complex_arithmetic__conclusion": {
       "completedAt": "2026-09-19T16:18:53.041Z"
+    },
+    "katas__linear_algebra__linear_algebra__overview": {
+      "completedAt": "2026-09-19T19:09:21.874Z"
+    },
+    "katas__linear_algebra__linear_algebra__matrices_and_vectors": {
+      "completedAt": "2026-09-19T19:11:08.319Z"
+    },
+    "katas__linear_algebra__linear_algebra__matrix_addition": {
+      "completedAt": "2026-09-19T19:11:52.353Z"
+    },
+    "katas__linear_algebra__linear_algebra__addition": {
+      "completedAt": "2026-09-19T19:13:20.567Z"
+    },
+    "katas__linear_algebra__linear_algebra__scalar_multiplication": {
+      "completedAt": "2026-09-19T19:14:03.757Z"
+    },
+    "katas__linear_algebra__linear_algebra__scalar_multiplication_ex": {
+      "completedAt": "2026-09-19T19:15:05.357Z"
+    },
+    "katas__linear_algebra__linear_algebra__matrix_multiplication": {
+      "completedAt": "2026-09-19T19:22:26.057Z"
+    },
+    "katas__linear_algebra__linear_algebra__matrix_multiplication_ex": {
+      "completedAt": "2026-09-19T19:26:25.660Z"
+    },
+    "katas__linear_algebra__linear_algebra__inverse_matrices": {
+      "completedAt": "2026-09-19T19:36:24.504Z"
+    },
+    "katas__linear_algebra__linear_algebra__inverse_matrix_ex": {
+      "completedAt": "2026-09-19T19:59:27.591Z"
     }
   },
   "startedAt": "2026-07-21T14:07:59.650Z",
