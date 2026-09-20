@@ -3,7 +3,7 @@
   "position": {
     "courseId": "katas",
     "unitId": "linear_algebra",
-    "activityId": "linear_algebra__adjoint"
+    "activityId": "linear_algebra__inner_product_ex"
   },
   "completions": {
     "katas__getting_started__getting_started__welcome": {
@@ -113,6 +113,18 @@
     },
     "katas__linear_algebra__linear_algebra__conjugate_ex": {
       "completedAt": "2026-09-19T20:14:29.613Z"
+    },
+    "katas__linear_algebra__linear_algebra__adjoint": {
+      "completedAt": "2026-09-20T21:10:23.596Z"
+    },
+    "katas__linear_algebra__linear_algebra__adjoint_ex": {
+      "completedAt": "2026-09-20T21:14:24.234Z"
+    },
+    "katas__linear_algebra__linear_algebra__unitary": {
+      "completedAt": "2026-09-20T21:22:10.210Z"
+    },
+    "katas__linear_algebra__linear_algebra__inner_product": {
+      "completedAt": "2026-09-20T21:36:40.308Z"
     }
   },
   "startedAt": "2026-07-21T14:07:59.650Z",
