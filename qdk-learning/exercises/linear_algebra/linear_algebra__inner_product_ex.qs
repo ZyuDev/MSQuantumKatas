@@ -3,6 +3,6 @@ namespace Kata {
 
     function InnerProduct() : Complex {
         // Replace the return value with correct answer.
-        return Complex(0., 0.);
+        return Complex(-18., 72.);
     }
 }

@@ -2,8 +2,8 @@
   "version": 1,
   "position": {
     "courseId": "katas",
-    "unitId": "linear_algebra",
-    "activityId": "linear_algebra__inner_product_ex"
+    "unitId": "qubit",
+    "activityId": "qubit__overview"
   },
   "completions": {
     "katas__getting_started__getting_started__welcome": {
@@ -125,6 +125,27 @@
     },
     "katas__linear_algebra__linear_algebra__inner_product": {
       "completedAt": "2026-09-20T21:36:40.308Z"
+    },
+    "katas__linear_algebra__linear_algebra__inner_product_ex": {
+      "completedAt": "2026-09-22T20:29:01.210Z"
+    },
+    "katas__linear_algebra__linear_algebra__normalized_vector": {
+      "completedAt": "2026-09-22T20:35:46.077Z"
+    },
+    "katas__linear_algebra__linear_algebra__outer_product": {
+      "completedAt": "2026-09-22T20:40:28.891Z"
+    },
+    "katas__linear_algebra__linear_algebra__outer_product_ex": {
+      "completedAt": "2026-09-22T20:44:28.912Z"
+    },
+    "katas__linear_algebra__linear_algebra__tensor_product": {
+      "completedAt": "2026-09-22T20:48:48.328Z"
+    },
+    "katas__linear_algebra__linear_algebra__tensor_product_ex": {
+      "completedAt": "2026-09-22T20:52:57.459Z"
+    },
+    "katas__linear_algebra__linear_algebra__conclusion": {
+      "completedAt": "2026-09-22T20:53:24.796Z"
     }
   },
   "startedAt": "2026-07-21T14:07:59.650Z",

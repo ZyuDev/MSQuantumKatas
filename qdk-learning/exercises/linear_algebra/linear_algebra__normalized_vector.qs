@@ -4,8 +4,8 @@ namespace Kata {
     function NormalizedVector() : Complex[][] {
         // Replace the return value with correct answer.
         return [
-            [Complex(0., 0.)],
-            [Complex(0., 0.)]
+            [Complex(-0.6, 0.0)],
+            [Complex(0.0, 0.8)]
         ];
     }
 }
