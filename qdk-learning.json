@@ -2,8 +2,8 @@
   "version": 1,
   "position": {
     "courseId": "katas",
-    "unitId": "qubit",
-    "activityId": "qubit__overview"
+    "unitId": "single_qubit_gates",
+    "activityId": "single_qubit_gates__phase_shift_gates"
   },
   "completions": {
     "katas__getting_started__getting_started__welcome": {
@@ -146,6 +146,75 @@
     },
     "katas__linear_algebra__linear_algebra__conclusion": {
       "completedAt": "2026-09-22T20:53:24.796Z"
+    },
+    "katas__qubit__qubit__overview": {
+      "completedAt": "2026-09-22T21:01:16.439Z"
+    },
+    "katas__qubit__qubit__concept": {
+      "completedAt": "2026-09-24T18:54:11.156Z"
+    },
+    "katas__qubit__qubit__dirac_notation": {
+      "completedAt": "2026-09-24T18:55:58.395Z"
+    },
+    "katas__qubit__qubit__relative_and_global_phase": {
+      "completedAt": "2026-09-24T19:02:26.785Z"
+    },
+    "katas__qubit__qubit__qsharp_data_type": {
+      "completedAt": "2026-09-24T19:11:18.695Z"
+    },
+    "katas__qubit__qubit__learn_single_qubit_state": {
+      "completedAt": "2026-09-24T19:37:13.934Z"
+    },
+    "katas__qubit__qubit__conclusion": {
+      "completedAt": "2026-09-24T19:40:20.160Z"
+    },
+    "katas__single_qubit_gates__single_qubit_gates__overview": {
+      "completedAt": "2026-09-24T20:11:03.904Z"
+    },
+    "katas__single_qubit_gates__single_qubit_gates__basics": {
+      "completedAt": "2026-09-25T15:26:53.874Z"
+    },
+    "katas__single_qubit_gates__single_qubit_gates__ket_bra_representation": {
+      "completedAt": "2026-09-25T15:34:43.648Z"
+    },
+    "katas__single_qubit_gates__single_qubit_gates__ket_bra_decomposition": {
+      "completedAt": "2026-09-25T15:39:03.592Z"
+    },
+    "katas__single_qubit_gates__single_qubit_gates__important_gates": {
+      "completedAt": "2026-09-26T16:33:33.850Z"
+    },
+    "katas__single_qubit_gates__single_qubit_gates__pauli_gates_in_qsharp": {
+      "completedAt": "2026-09-26T16:53:02.090Z"
+    },
+    "katas__single_qubit_gates__single_qubit_gates__state_flip": {
+      "completedAt": "2026-09-26T18:06:27.067Z"
+    },
+    "katas__single_qubit_gates__single_qubit_gates__sign_flip": {
+      "completedAt": "2026-09-26T18:07:15.386Z"
+    },
+    "katas__single_qubit_gates__single_qubit_gates__y_gate": {
+      "completedAt": "2026-09-26T18:07:38.239Z"
+    },
+    "katas__single_qubit_gates__single_qubit_gates__sign_flip_on_zero": {
+      "completedAt": "2026-09-26T18:14:09.640Z"
+    },
+    "katas__single_qubit_gates__single_qubit_gates__global_phase_minusone": {
+      "completedAt": "2026-09-26T18:18:49.879Z"
+    },
+    "katas__single_qubit_gates__single_qubit_gates__global_phase_i": {
+      "completedAt": "2026-09-26T18:23:48.106Z"
+    },
+    "katas__single_qubit_gates__identity_gate": {
+      "completedAt": "2026-09-26T18:30:28.432Z"
+    },
+    "katas__single_qubit_gates__hadamard_gate": {
+      "completedAt": "2026-09-26T20:13:04.883Z"
+    },
+    "katas__single_qubit_gates__single_qubit_gates__basis_change": {
+      "completedAt": "2026-09-26T20:14:45.435Z"
+    },
+    "katas__single_qubit_gates__single_qubit_gates__prepare_minus": {
+      "completedAt": "2026-09-26T20:16:31.199Z"
     }
   },
   "startedAt": "2026-07-21T14:07:59.650Z",

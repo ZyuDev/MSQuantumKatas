@@ -1,6 +1,9 @@
 namespace Kata {
     operation GlobalPhaseChange (q : Qubit) : Unit is Adj + Ctl {
-        // Implement your solution here...
+        Z(q);
+        X(q);
+        Z(q);
+        X(q);
         
     }
 }
