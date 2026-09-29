@@ -2,8 +2,8 @@
   "version": 1,
   "position": {
     "courseId": "katas",
-    "unitId": "single_qubit_gates",
-    "activityId": "single_qubit_gates__rotation_gates"
+    "unitId": "multi_qubit_systems",
+    "activityId": "multi_qubit_systems__bell_state_change_1 "
   },
   "completions": {
     "katas__getting_started__getting_started__welcome": {
@@ -224,6 +224,63 @@
     },
     "katas__single_qubit_gates__single_qubit_gates__three_quarters_pi_phase": {
       "completedAt": "2026-09-27T19:32:33.762Z"
+    },
+    "katas__single_qubit_gates__single_qubit_gates__complex_phase": {
+      "completedAt": "2026-09-28T14:41:22.356Z"
+    },
+    "katas__single_qubit_gates__single_qubit_gates__rotation_gates": {
+      "completedAt": "2026-09-28T14:41:33.604Z"
+    },
+    "katas__single_qubit_gates__single_qubit_gates__amplitude_change": {
+      "completedAt": "2026-09-28T14:46:39.552Z"
+    },
+    "katas__single_qubit_gates__single_qubit_gates__prepare_rotated_state": {
+      "completedAt": "2026-09-28T14:59:33.240Z"
+    },
+    "katas__single_qubit_gates__single_qubit_gates__prepare_arbitrary_state": {
+      "completedAt": "2026-09-28T15:30:49.551Z"
+    },
+    "katas__single_qubit_gates__single_qubit_gates__conclusion": {
+      "completedAt": "2026-09-28T15:31:41.179Z"
+    },
+    "katas__multi_qubit_systems__multi_qubit_systems__overview": {
+      "completedAt": "2026-09-28T15:55:30.201Z"
+    },
+    "katas__multi_qubit_systems__multi_qubit_systems__introduction": {
+      "completedAt": "2026-09-28T15:58:23.408Z"
+    },
+    "katas__multi_qubit_systems__multi_qubit_systems__separable_states": {
+      "completedAt": "2026-09-28T19:15:29.921Z"
+    },
+    "katas__multi_qubit_systems__multi_qubit_systems__entanglement": {
+      "completedAt": "2026-09-28T19:28:16.989Z"
+    },
+    "katas__multi_qubit_systems__multi_qubit_systems__dirac_notation": {
+      "completedAt": "2026-09-29T12:49:12.207Z"
+    },
+    "katas__multi_qubit_systems__multi_qubit_systems__in_qsharp": {
+      "completedAt": "2026-09-29T14:53:48.795Z"
+    },
+    "katas__multi_qubit_systems__multi_qubit_systems__learn_basis_state_amplitudes": {
+      "completedAt": "2026-09-29T16:23:26.131Z"
+    },
+    "katas__multi_qubit_systems__multi_qubit_systems__exercises": {
+      "completedAt": "2026-09-29T16:24:20.514Z"
+    },
+    "katas__multi_qubit_systems__multi_qubit_systems__prepare_basis_state": {
+      "completedAt": "2026-09-29T17:05:29.019Z"
+    },
+    "katas__multi_qubit_systems__multi_qubit_systems__prepare_superposition": {
+      "completedAt": "2026-09-29T18:03:33.230Z"
+    },
+    "katas__multi_qubit_systems__multi_qubit_systems__prepare_with_real": {
+      "completedAt": "2026-09-29T18:17:45.530Z"
+    },
+    "katas__multi_qubit_systems__multi_qubit_systems__prepare_with_complex": {
+      "completedAt": "2026-09-29T19:47:04.305Z"
+    },
+    "katas__multi_qubit_systems__multi_qubit_systems__modifying_entangled_states": {
+      "completedAt": "2026-09-29T19:47:32.746Z"
     }
   },
   "startedAt": "2026-07-21T14:07:59.650Z",

@@ -7,7 +7,9 @@ namespace Kata {
         theta : Double,
         q : Qubit
     ) : Unit is Adj + Ctl {
-        // Implement your solution here...
+        let phi = 2.0*ArcTan2(beta, alpha);
+        Ry(phi, q);
+        R1(theta, q);
 
     }
 }
