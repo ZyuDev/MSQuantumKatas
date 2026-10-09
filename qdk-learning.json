@@ -2,8 +2,8 @@
   "version": 1,
   "position": {
     "courseId": "katas",
-    "unitId": "multi_qubit_systems",
-    "activityId": "multi_qubit_systems__bell_state_change_1 "
+    "unitId": "multi_qubit_gates",
+    "activityId": "multi_qubit_gates__relative_phase_minusone"
   },
   "completions": {
     "katas__getting_started__getting_started__welcome": {
@@ -281,6 +281,42 @@
     },
     "katas__multi_qubit_systems__multi_qubit_systems__modifying_entangled_states": {
       "completedAt": "2026-09-29T19:47:32.746Z"
+    },
+    "katas__multi_qubit_systems__multi_qubit_systems__bell_state_change_1 ": {
+      "completedAt": "2026-09-30T21:33:54.140Z"
+    },
+    "katas__multi_qubit_systems__multi_qubit_systems__bell_state_change_2 ": {
+      "completedAt": "2026-09-30T21:35:54.254Z"
+    },
+    "katas__multi_qubit_systems__multi_qubit_systems__bell_state_change_3 ": {
+      "completedAt": "2026-10-01T14:02:43.927Z"
+    },
+    "katas__multi_qubit_systems__multi_qubit_systems__conclusion": {
+      "completedAt": "2026-10-01T14:14:37.009Z"
+    },
+    "katas__multi_qubit_gates__multi_qubit_gates__overview": {
+      "completedAt": "2026-10-01T14:16:43.000Z"
+    },
+    "katas__multi_qubit_gates__multi_qubit_gates__the_basics": {
+      "completedAt": "2026-10-01T14:33:08.183Z"
+    },
+    "katas__multi_qubit_gates__multi_qubit_gates__compound_gate": {
+      "completedAt": "2026-10-04T21:13:00.501Z"
+    },
+    "katas__multi_qubit_gates__multi_qubit_gates__cnot_gate": {
+      "completedAt": "2026-10-09T17:57:23.671Z"
+    },
+    "katas__multi_qubit_gates__multi_qubit_gates__entangle_qubits": {
+      "completedAt": "2026-10-09T18:08:57.956Z"
+    },
+    "katas__multi_qubit_gates__multi_qubit_gates__preparing_bell_state": {
+      "completedAt": "2026-10-09T21:04:29.355Z"
+    },
+    "katas__multi_qubit_gates__multi_qubit_gates__cz_gate": {
+      "completedAt": "2026-10-09T21:16:56.178Z"
+    },
+    "katas__multi_qubit_gates__multi_qubit_gates__relative_phase_minusone": {
+      "completedAt": "2026-10-09T21:18:29.696Z"
     }
   },
   "startedAt": "2026-07-21T14:07:59.650Z",
