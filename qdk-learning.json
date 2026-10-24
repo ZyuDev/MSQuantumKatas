@@ -3,7 +3,7 @@
   "position": {
     "courseId": "katas",
     "unitId": "multi_qubit_gates",
-    "activityId": "multi_qubit_gates__controlled_rotation"
+    "activityId": "multi_qubit_gates__other_controlled_gates"
   },
   "completions": {
     "katas__getting_started__getting_started__welcome": {
@@ -341,6 +341,12 @@
     },
     "katas__multi_qubit_gates__multi_qubit_gates__controlled_rotation": {
       "completedAt": "2026-10-24T20:39:45.699Z"
+    },
+    "katas__multi_qubit_gates__multi_qubit_gates__multi_controlled_gates": {
+      "completedAt": "2026-10-24T20:58:52.796Z"
+    },
+    "katas__multi_qubit_gates__multi_qubit_gates__toffoli_gate": {
+      "completedAt": "2026-10-24T21:01:02.063Z"
     }
   },
   "startedAt": "2026-07-21T14:07:59.650Z",
