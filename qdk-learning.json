@@ -3,7 +3,7 @@
   "position": {
     "courseId": "katas",
     "unitId": "multi_qubit_gates",
-    "activityId": "multi_qubit_gates__relative_phase_minusone"
+    "activityId": "multi_qubit_gates__controlled_rotation"
   },
   "completions": {
     "katas__getting_started__getting_started__welcome": {
@@ -317,6 +317,30 @@
     },
     "katas__multi_qubit_gates__multi_qubit_gates__relative_phase_minusone": {
       "completedAt": "2026-10-09T21:18:29.696Z"
+    },
+    "katas__multi_qubit_gates__multi_qubit_gates__ket_bra_representation": {
+      "completedAt": "2026-10-09T21:20:19.835Z"
+    },
+    "katas__multi_qubit_gates__multi_qubit_gates__ket_bra_decomposition": {
+      "completedAt": "2026-10-09T21:22:26.011Z"
+    },
+    "katas__multi_qubit_gates__multi_qubit_gates__swap_gate": {
+      "completedAt": "2026-10-16T20:59:16.601Z"
+    },
+    "katas__multi_qubit_gates__multi_qubit_gates__qubit_swap": {
+      "completedAt": "2026-10-16T21:00:30.645Z"
+    },
+    "katas__multi_qubit_gates__multi_qubit_gates__acting_on_non_adjacent_qubits": {
+      "completedAt": "2026-10-19T16:22:04.130Z"
+    },
+    "katas__multi_qubit_gates__multi_qubit_gates__controlled_gates": {
+      "completedAt": "2026-10-20T20:59:24.118Z"
+    },
+    "katas__multi_qubit_gates__multi_qubit_gates__fredkin_gate": {
+      "completedAt": "2026-10-24T20:36:58.730Z"
+    },
+    "katas__multi_qubit_gates__multi_qubit_gates__controlled_rotation": {
+      "completedAt": "2026-10-24T20:39:45.699Z"
     }
   },
   "startedAt": "2026-07-21T14:07:59.650Z",
