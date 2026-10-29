@@ -2,8 +2,8 @@
   "version": 1,
   "position": {
     "courseId": "katas",
-    "unitId": "multi_qubit_gates",
-    "activityId": "multi_qubit_gates__other_controlled_gates"
+    "unitId": "preparing_states",
+    "activityId": "preparing_states__plus_state"
   },
   "completions": {
     "katas__getting_started__getting_started__welcome": {
@@ -347,6 +347,24 @@
     },
     "katas__multi_qubit_gates__multi_qubit_gates__toffoli_gate": {
       "completedAt": "2026-10-24T21:01:02.063Z"
+    },
+    "katas__multi_qubit_gates__multi_qubit_gates__other_controlled_gates": {
+      "completedAt": "2026-10-27T19:11:32.108Z"
+    },
+    "katas__multi_qubit_gates__multi_qubit_gates__anti_controlled_gate": {
+      "completedAt": "2026-10-29T20:42:40.768Z"
+    },
+    "katas__multi_qubit_gates__multi_qubit_gates__arbitrary_controls": {
+      "completedAt": "2026-10-29T20:47:39.920Z"
+    },
+    "katas__multi_qubit_gates__multi_qubit_gates__conclusion": {
+      "completedAt": "2026-10-29T20:48:58.185Z"
+    },
+    "katas__preparing_states__preparing_states__overview": {
+      "completedAt": "2026-10-29T20:50:17.330Z"
+    },
+    "katas__preparing_states__preparing_states__even_superpositions": {
+      "completedAt": "2026-10-29T20:50:44.194Z"
     }
   },
   "startedAt": "2026-07-21T14:07:59.650Z",
