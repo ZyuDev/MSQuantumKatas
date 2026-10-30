@@ -3,7 +3,7 @@
   "position": {
     "courseId": "katas",
     "unitId": "preparing_states",
-    "activityId": "preparing_states__plus_state"
+    "activityId": "preparing_states__minus_state"
   },
   "completions": {
     "katas__getting_started__getting_started__welcome": {
@@ -365,6 +365,12 @@
     },
     "katas__preparing_states__preparing_states__even_superpositions": {
       "completedAt": "2026-10-29T20:50:44.194Z"
+    },
+    "katas__preparing_states__preparing_states__plus_state": {
+      "completedAt": "2026-10-30T19:28:56.364Z"
+    },
+    "katas__preparing_states__preparing_states__minus_state": {
+      "completedAt": "2026-10-30T19:35:51.176Z"
     }
   },
   "startedAt": "2026-07-21T14:07:59.650Z",
