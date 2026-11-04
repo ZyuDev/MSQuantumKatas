@@ -3,7 +3,7 @@
   "position": {
     "courseId": "katas",
     "unitId": "preparing_states",
-    "activityId": "preparing_states__even_sup_two_qubits_phase_flip"
+    "activityId": "preparing_states__all_basis_vectors"
   },
   "completions": {
     "katas__getting_started__getting_started__welcome": {
@@ -377,6 +377,21 @@
     },
     "katas__preparing_states__preparing_states__even_sup_two_qubits_phase_flip": {
       "completedAt": "2026-10-30T20:38:29.491Z"
+    },
+    "katas__preparing_states__preparing_states__even_sup_two_qubits_complex_phases": {
+      "completedAt": "2026-10-30T21:02:06.801Z"
+    },
+    "katas__preparing_states__preparing_states__bell_state": {
+      "completedAt": "2026-10-30T21:29:40.631Z"
+    },
+    "katas__preparing_states__preparing_states__all_bell_states": {
+      "completedAt": "2026-11-03T20:09:11.023Z"
+    },
+    "katas__preparing_states__preparing_states__ghz_state": {
+      "completedAt": "2026-11-04T17:36:09.846Z"
+    },
+    "katas__preparing_states__preparing_states__all_basis_vectors": {
+      "completedAt": "2026-11-04T18:15:08.233Z"
     }
   },
   "startedAt": "2026-07-21T14:07:59.650Z",

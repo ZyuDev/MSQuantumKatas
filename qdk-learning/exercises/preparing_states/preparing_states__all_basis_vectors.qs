@@ -1,6 +1,9 @@
 namespace Kata {
     operation AllBasisVectorsSuperposition (qs : Qubit[]) : Unit is Adj + Ctl {
-        // Implement your solution here...
+        for i in 0..(Length(qs)-1) {
+            H(qs[i]);
+
+        }
 
     }
 }
