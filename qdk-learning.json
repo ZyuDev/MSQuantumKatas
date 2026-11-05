@@ -3,7 +3,7 @@
   "position": {
     "courseId": "katas",
     "unitId": "preparing_states",
-    "activityId": "preparing_states__all_basis_vectors"
+    "activityId": "preparing_states__zero_and_bitstring"
   },
   "completions": {
     "katas__getting_started__getting_started__welcome": {
@@ -392,6 +392,9 @@
     },
     "katas__preparing_states__preparing_states__all_basis_vectors": {
       "completedAt": "2026-11-04T18:15:08.233Z"
+    },
+    "katas__preparing_states__preparing_states__even_odd": {
+      "completedAt": "2026-11-05T19:51:48.085Z"
     }
   },
   "startedAt": "2026-07-21T14:07:59.650Z",
