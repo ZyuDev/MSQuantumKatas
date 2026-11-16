@@ -3,7 +3,7 @@
   "position": {
     "courseId": "katas",
     "unitId": "preparing_states",
-    "activityId": "preparing_states__zero_and_bitstring"
+    "activityId": "preparing_states__four_bitstrings"
   },
   "completions": {
     "katas__getting_started__getting_started__welcome": {
@@ -395,6 +395,12 @@
     },
     "katas__preparing_states__preparing_states__even_odd": {
       "completedAt": "2026-11-05T19:51:48.085Z"
+    },
+    "katas__preparing_states__preparing_states__zero_and_bitstring": {
+      "completedAt": "2026-11-07T19:17:37.051Z"
+    },
+    "katas__preparing_states__preparing_states__two_bitstrings": {
+      "completedAt": "2026-11-15T10:46:41.859Z"
     }
   },
   "startedAt": "2026-07-21T14:07:59.650Z",
